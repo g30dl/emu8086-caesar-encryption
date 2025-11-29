@@ -68,8 +68,8 @@ El cifrado César desplaza cada letra del alfabeto un número fijo de posiciones
 
 ## 👥 Autores
 
-- [Tu Nombre] - Matrícula
-- [Nombre del Compañero] - Matrícula (si aplica)
+- Geovanny Jahir Diaz Loor
+- Luis Emmanuel Vargas Silva
 
 **Institución:** Escuela Superior Politécnica del Litoral (ESPOL)  
 **Materia:** Organización de Computadores (CCPG1049)  
@@ -85,23 +85,3 @@ Este proyecto es de carácter académico. Desarrollado para fines educativos.
 - [emu8086 Documentation](http://www.emu8086.com/)
 - Documentación del curso CCPG1049 - ESPOL
 
-## 📸 Capturas de Pantalla
-
-[Aquí incluirás las capturas cuando tengas el programa funcionando]
-
----
-
-**Nota:** Este proyecto fue desarrollado como parte de la primera evaluación del curso de Organización de Computadores, cumpliendo con los requisitos especificados en el documento del proyecto.
-```
-
----
-
-## 🎯 Tips adicionales:
-
-1. **`.gitignore`** - Crea uno para excluir archivos temporales de emu8086:
-```
-*.exe
-*.obj
-*.lst
-*.bin
-~*
